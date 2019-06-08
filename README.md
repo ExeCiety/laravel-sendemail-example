@@ -22,3 +22,4 @@ Send Email Using Google Mail, Ajax, Sweet Alert2 and RestAPI with Template in La
       <p>Mail::to('*Your Email')->send(new SendMail($data));</p>
 
 3. Serve your project : php artisan serve
+4. Test in your browser : http://localhost:8000/sendfeedback
