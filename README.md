@@ -23,3 +23,6 @@ Send Email Using Google Mail, Ajax, Sweet Alert2 and RestAPI with Template in La
 
 3. Serve your project : php artisan serve
 4. Test in your browser : http://localhost:8000/sendfeedback
+
+# Tutorial
+https://medium.com/@execiety/how-to-send-email-using-google-mail-ajax-sweet-alert2-and-restapi-with-template-in-laravel-5-8-ad5ea3b83ddd
