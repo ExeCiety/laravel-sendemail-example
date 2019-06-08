@@ -2,12 +2,12 @@
 
 Send Email Using Google Mail, Ajax, Sweet Alert2 and RestAPI with Template in Laravel 5.8
 
-installations : 
+# Installations : 
 1. Clone or Download repository
 2. In project directory type command : composer install
 3. Create .env file from .env.example (With console)
 
-How To Use :
+# How To Use :
 1. Configure the email in the env file
 
 <p>MAIL_DRIVER=smtp</p>
